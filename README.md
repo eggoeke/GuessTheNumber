@@ -1,3 +1,3 @@
 # GuessTheNumber
 
-Nathan has the coordinates of Tyler's house. There's a map on the back, watch out.
+I have the coordinates to Nathans house so he has to watch out...
